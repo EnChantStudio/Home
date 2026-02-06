@@ -11,7 +11,7 @@ This folder is a ready-to-publish static website for En’Chant Studio, using yo
 3. Upload these files/folders into the repository:
    - `index.html`
    - `styles.css`
-   - `logo.png`
+   - `assets/` (contains `logo.png`)
 4. In the repo, go to **Settings → Pages**:
    - **Source**: Deploy from a branch
    - **Branch**: `main` and `/ (root)`
